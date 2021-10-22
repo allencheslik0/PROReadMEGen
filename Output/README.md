@@ -1,30 +1,40 @@
+# Title
 
-# Title 
-foo
+ReadMe Generator
 
 # Description
-foo
+
+Building a ReadMe Generator using Node
 #Table of Contents
-*[Installation](#Installation)
-*[Usage](#Usage)
-*[Credits](#Credits)
-*[License](#License)
-*[Username](#Username)
-*[Contact Info](#Contact Info)
+_[Installation](#Installation)
+_[Usage](#Usage)
+_[Credits](#Credits)
+_[License](#License)
+_[Username](#Username)
+_[Contact Info](#Contact Info)
 
 ## Installation
-There are going to be specific dependencies needed to run this app correctly: foo
+
+There are going to be specific dependencies needed to run this app correctly: install Node and inquirer package
+
 ## Usage
-foo
+
+NONE
+
 ## Credits
-foo
+
+Me
+
 ## License
-These licenses were used:  MIT
+
+These licenses were used: GPLv3
 ![License](https://img.shields.io/badge/License.svg)
-https://opensource.org/licenses/MIT
+https//www.gnu.org/licenses/gpl-3.0
+
 ## Username
-You can find me on github at: foo
+
+You can find me on github at: allencheslik0
+
 ## Contact Info
-You can contact me at foo
 
-
+You can contact me at allencheslik0@gmail.com
