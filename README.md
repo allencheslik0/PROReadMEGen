@@ -1,7 +1,7 @@
-# congenial-succotash-PG
+# ReadMe Generator
 
 > Create a Professional README Generator
-> Live demo (https://github.com/allencheslik0/shiny-succotash).
+> Live demo https://watch.screencastify.com/v/bojxUy2pAzR5PtMPKJHt
 
 ## Screenshot
 
