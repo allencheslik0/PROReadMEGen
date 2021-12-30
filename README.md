@@ -1,6 +1,6 @@
 # ReadMe Generator
+We've created a simple and professional ReadMe generator
 
-> Create a Professional README Generator
 > Live demo https://watch.screencastify.com/v/bojxUy2pAzR5PtMPKJHt
 
 ## Screenshot
